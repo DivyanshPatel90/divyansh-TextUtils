@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/divyansh-TextUtils/static/css/main.073c9b0a.css",
+    "main.js": "/divyansh-TextUtils/static/js/main.62c0c144.js",
+    "static/js/787.d3befce1.chunk.js": "/divyansh-TextUtils/static/js/787.d3befce1.chunk.js",
+    "index.html": "/divyansh-TextUtils/index.html",
+    "main.073c9b0a.css.map": "/divyansh-TextUtils/static/css/main.073c9b0a.css.map",
+    "main.62c0c144.js.map": "/divyansh-TextUtils/static/js/main.62c0c144.js.map",
+    "787.d3befce1.chunk.js.map": "/divyansh-TextUtils/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.62c0c144.js"
+  ]
+}
